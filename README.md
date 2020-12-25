@@ -11,7 +11,7 @@ Usage of Yolo-Spam for attacking targets without prior mutual consent is illegal
  - This tool is meant for security & educational purposes only!
  - I am not responsible for what you do/use with this tool!
 
-Instagram: @sprx.sh
+Instagram: @bashfile
 Discord: Cosmic#1337
 
 ![Yolo-Spam](https://i.imgur.com/3JWlPcN.png)                                                 
